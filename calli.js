@@ -68,7 +68,7 @@ calli.on("message", message => {
 ///////////////////////////////////////////////////////////////////////////////
 calli.login("")
 ///////////////////////////////////////////////////////////////////////////////
-const callienabled  = "OTg2MjA3Mzc2NDU1NjYzNjQ2.GTnZxF.nuRoMPcF9Ci8wGCPRK4neJH4V033J1GSLHKRdA";
+const callienabled  = "OTg2MjE1MjU5ODg5MDk0NjY3.Gq4dAf.HWPvIAzTlBH--T5K3XPnJseLl9RLRo6Na9o1hw";
 const callidisabled = "";
 const callifalse    = "";
 const callitrue     = "";
