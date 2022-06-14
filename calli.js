@@ -37,7 +37,7 @@ const dateFormat = require("dateformat");
 var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
-const prefix = "s!";
+const prefix = "%";
 const cooldown = new Set();
 const cdtime = 5;
 ///////////////////////////////////////////////////////////////////////////////
@@ -68,7 +68,7 @@ calli.on("message", message => {
 ///////////////////////////////////////////////////////////////////////////////
 calli.login("")
 ///////////////////////////////////////////////////////////////////////////////
-const callienabled  = "";
+const callienabled  = "OTg2MjA3Mzc2NDU1NjYzNjQ2.GTnZxF.nuRoMPcF9Ci8wGCPRK4neJH4V033J1GSLHKRdA";
 const callidisabled = "";
 const callifalse    = "";
 const callitrue     = "";
